@@ -1,0 +1,9 @@
+com/harish/messenger/reqResponsePojos/ProfileReq.class
+com/harish/messenger/model/Message.class
+com/harish/messenger/profiles/ProfileResource.class
+com/harish/messenger/service/ProfileService.class
+com/harish/messenger/service/MessageService.class
+com/harish/messenger/servlet/MessengerResource.class
+com/harish/messenger/reqResponsePojos/MessageReq.class
+messenger/utility/test.class
+messenger/utility/SessionCreater.class
